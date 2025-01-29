@@ -1,0 +1,46 @@
+body{ background: rgb(157, 192, 255);}
+img{
+    width:50%;
+    border:solid  3px rgb(255, 255, 255);
+   
+}
+.img{ 
+    border-radius: 50%;
+}
+
+#un{
+    width: 3%;
+    display: flex;
+}
+
+    
+#deux{
+    background-color: rgb(255, 156, 230);
+    border: solid 1px rgb(255, 255, 255);
+    width: 100px ;
+    margin-left: 500px;
+    text-align: center; 
+    border-radius: 5%;
+    margin-bottom: 10px;
+    
+}
+
+
+.corps{
+    text-align: left;
+
+}
+   
+
+.container{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+    height: 750px;
+    width: 300px;
+    align-items: center; /* aligner le contenu du dic au centre*/
+    background-color: rgb(255, 156, 230);
+}
+#a{
+    text-align: left;
+}
